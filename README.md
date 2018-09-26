@@ -1,1 +1,1 @@
-# DataCamp_Solutions_Python-Word-frequency-in-Moby-Dick
+Datacamp project, simple NLP of moby dick. Using request, Beautifulsoup and nltk libraries. In the end we plot the most frequent words in this book. Code can be used as template for every other NLP project. 
